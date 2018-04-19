@@ -1,3 +1,5 @@
 milk
 butter 
 bread
+pineapple 
+grape
