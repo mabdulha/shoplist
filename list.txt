@@ -3,3 +3,6 @@ butter
 bread
 apples
 banana
+pineapple 
+grape
+
